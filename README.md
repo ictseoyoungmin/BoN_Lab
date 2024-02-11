@@ -6,5 +6,5 @@ OC-CNN의 간단한 확장으로 위 상황에서 훈련에 참여하지 않은 
 
 예를 들어, Cat과 Dog 클래스를 학습한 이 네트워크는 사자나 표범의 이미지가 입력되면 Unknown으로 예측할 수 있다.
 
-첫 실험이 2가지 클래스와 Unknown Class를 분류하는 것 이었고 마땅히 이 Task에 붙여진 이름이 없는 것 같아 BoN ( Both or Nothing ) Classification 이라 썼다. => Out of Distribution
+첫 실험이 2가지 클래스와 Unknown Class를 분류하는 것 BoN => Out of Distribution
 
